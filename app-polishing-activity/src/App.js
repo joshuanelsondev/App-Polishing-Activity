@@ -4,7 +4,7 @@ import "./Variables.css";
 
 function App() {
   return (
-    <div>
+    <div className="main">
       <Nav />
     </div>
   );
